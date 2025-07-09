@@ -1,0 +1,28 @@
+{
+   "lang": "en-us",
+   "name": "Shemyte Offline Cookbook",
+   "short_name": "Shem Cookbook",
+   "description": "An offline-friendly online cookbook perfect for that campfire trip off-the-grid",
+   "start_url": "/",
+   "background_color": "#ff001b",
+   "theme_color": "#e8ca6c",
+   "orientation": "any",
+   "display": "standalone",
+   "scope": "/",
+   "dir": "ltr",
+   "icons": [
+       {
+           "src": "/assets/cookbook-icon.png",
+           "sizes": "400x300",
+           "type": "image/jpeg"
+       }
+   ],
+   "categories": [
+       "food",
+       "health",
+       "book",
+       "entertainment"
+   ],
+   "screenshots": [],
+   "shortcuts": []
+}
